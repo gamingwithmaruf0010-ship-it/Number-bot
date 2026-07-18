@@ -47,7 +47,7 @@ PANELS_FILE = "panels.json"
 SERVICES_FILE = "services.json"
 ADMIN_DB_FILE = "admin_db.json"
 OWNER_ID = "6293094676" # Change this ID to your main Admin ID
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8636832065:AAGJUD7ZbWb5QpJcaHIOjzFej0abA1svKLo")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8636832065:AAGbLwLg0YZC5Za0g7peh6iG7DkDNgrDO5E")
 
 # Admin DB Logic (Tracks Users and Today's Numbers)
 def load_admin_db():

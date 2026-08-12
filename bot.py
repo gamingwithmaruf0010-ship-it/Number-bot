@@ -24,7 +24,7 @@ BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
 OWNER_ID = 6293094676
-BOT_USERNAME = ""
+BOT_USERNAME = "@MX_Number_Bot"
 DB_FILE = "bot_data.json"
 
 # ==========================================
